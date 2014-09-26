@@ -3,7 +3,7 @@ jquery-selectRange
 
 Jquery Plugin that generates a range of options for a select element
 
-Ussage
+Example usage:
 
 $("select").selectRange({
     min: 1,
