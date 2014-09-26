@@ -4,7 +4,7 @@ $.fn.selectRange = function (options) {
         $options = '',
         $val = this.val();
 
-    $select.empty();
+    this.empty();
     for(i = $settings.min; i <= $settings.max; i++) {
         $options += '<oprion value="' + i + '">' + i + '</option>';
     }
