@@ -1,4 +1,4 @@
-jquery-selectRange
+selectrange
 ==================
 
 Jquery Plugin that generates a range of options for a select element
