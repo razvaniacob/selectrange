@@ -11,7 +11,7 @@ Basic usage:
 
 ```
 <script type="text/javascript" src="jquery.js"></script>
-<script type="text/javascript" src="selectrange.js"></script>
+<script type="text/javascript" src="select-range.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
     $("select").selectRange({
